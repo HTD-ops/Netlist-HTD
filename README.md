@@ -1,6 +1,8 @@
 # Directory Structure
 /saved_models_single_output/: Directory where trained models are saved.
+
 /FeaVec/56dim_csv/: Directory containing the training data CSV files.
+
 /FeaVec/T123_56dim/: Directory containing the test data CSV files.
 
 # Machine Learning Model Evaluation and Explanation
